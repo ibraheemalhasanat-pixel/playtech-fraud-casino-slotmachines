@@ -1,10 +1,11 @@
-## composer
+แตกใส่หน้านะรอบหน้า
+
 add
     "repositories": [{
             "type": "path",
             "url": ".wainwright/casino-dog"
         },
-        {
+        {แตกใส่หน้านะรอบหน้า
             "type": "path",
             "url": ".wainwright/nova"
         }
